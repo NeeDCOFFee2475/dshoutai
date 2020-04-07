@@ -1,0 +1,47 @@
+Manifest-Version: 1.0
+Main-Class: org.linlinjava.litemall.Application
+Class-Path: spring-boot-starter-web-2.1.5.RELEASE.jar springfox-swagger-
+ common-2.2.2.jar jodd-upload-3.7.1.jar commons-collections-3.2.1.jar pa
+ gehelper-spring-boot-autoconfigure-1.2.5.jar spring-boot-starter-mail-2
+ .0.4.RELEASE.jar spring-web-5.1.7.RELEASE.jar log4j-api-2.11.2.jar spri
+ ng-boot-starter-json-2.0.4.RELEASE.jar tomcat-embed-el-9.0.19.jar commo
+ ns-codec-1.11.jar jaxen-1.1.6.jar jdom-1.1.jar jul-to-slf4j-1.7.26.jar 
+ xmlpull-1.1.3.1.jar aliyun-sdk-oss-2.5.0.jar qiniu-java-sdk-7.2.28.jar 
+ commons-logging-1.1.1.jar swagger-models-1.5.3.jar bcpkix-jdk15on-1.59.
+ jar log4j-to-slf4j-2.11.2.jar swagger-annotations-1.5.3.jar jaxb-impl-2
+ .1.jar spring-boot-starter-tomcat-2.1.5.RELEASE.jar logback-classic-1.2
+ .3.jar qcloudsms-1.0.5.jar jsqlparser-1.0.jar springfox-core-2.2.2.jar 
+ logback-core-1.2.3.jar springfox-spring-web-2.2.2.jar spring-boot-start
+ er-2.1.5.RELEASE.jar jboss-logging-3.3.2.Final.jar javax.mail-1.6.2.jar
+  spring-jdbc-5.1.7.RELEASE.jar javax.activation-api-1.2.0.jar spring-we
+ bmvc-5.1.7.RELEASE.jar mybatis-spring-boot-starter-1.3.2.jar jackson-da
+ tabind-2.9.8.jar guava-18.0.jar spring-jcl-5.1.7.RELEASE.jar mapstruct-
+ 1.0.0.CR1.jar activation-1.1.1.jar jackson-datatype-jdk8-2.9.8.jar spri
+ ng-beans-5.1.7.RELEASE.jar pagehelper-5.1.4.jar commons-beanutils-1.9.3
+ .jar weixin-java-miniapp-3.3.0.jar httpmime-4.5.8.jar slf4j-api-1.7.26.
+ jar okhttp-3.14.4.jar springfox-swagger2-2.2.2.jar spring-hateoas-0.25.
+ 1.RELEASE.jar commons-io-2.5.jar commons-lang3-3.8.1.jar druid-1.1.10.j
+ ar spring-plugin-metadata-1.2.0.RELEASE.jar aliyun-java-sdk-core-4.0.3.
+ jar weixin-java-common-3.3.0.jar dom4j-2.0.0.jar jodd-http-3.7.1.jar ja
+ xb-core-2.1.14.jar okio-1.17.2.jar xpp3_min-1.1.4c.jar spring-boot-star
+ ter-logging-2.1.5.RELEASE.jar httpclient-4.5.8.jar xstream-1.4.10.jar s
+ nakeyaml-1.23.jar tomcat-embed-core-9.0.19.jar gson-2.8.5.jar spring-bo
+ ot-2.1.5.RELEASE.jar hibernate-validator-6.1.0.Final.jar javax.annotati
+ on-api-1.3.2.jar springfox-swagger-ui-2.2.2.jar jcl-over-slf4j-1.7.26.j
+ ar jakarta.validation-api-2.0.2.jar HikariCP-3.2.0.jar java-jwt-3.4.1.j
+ ar pagehelper-spring-boot-starter-1.2.5.jar spring-boot-devtools-2.1.5.
+ RELEASE.jar spring-boot-starter-jdbc-2.1.5.RELEASE.jar druid-spring-boo
+ t-starter-1.1.10.jar jodd-core-3.7.1.jar mybatis-3.4.6.jar mysql-connec
+ tor-java-5.1.46.jar json-lib-2.4-jdk15.jar cos_api-5.6.8.jar spring-tx-
+ 5.1.7.RELEASE.jar jackson-module-parameter-names-2.9.8.jar spring-boot-
+ autoconfigure-2.1.5.RELEASE.jar aspectjrt-1.9.4.jar jackson-annotations
+ -2.9.0.jar spring-context-5.1.7.RELEASE.jar mybatis-spring-boot-autocon
+ figure-1.3.2.jar springfox-spi-2.2.2.jar aspectjweaver-1.9.4.jar spring
+ -context-support-5.1.7.RELEASE.jar spring-aop-5.1.7.RELEASE.jar springf
+ ox-schema-2.2.2.jar tomcat-embed-websocket-9.0.19.jar jackson-core-2.9.
+ 8.jar spring-plugin-core-1.2.0.RELEASE.jar classmate-1.4.0.jar spring-e
+ xpression-5.1.7.RELEASE.jar httpcore-4.4.11.jar jaxb-api-2.3.1.jar weix
+ in-java-pay-3.3.0.jar bcprov-jdk15on-1.59.jar mybatis-spring-1.3.2.jar 
+ ezmorph-1.0.6.jar jackson-datatype-jsr310-2.9.8.jar spring-core-5.1.7.R
+ ELEASE.jar joda-time-2.10.2.jar json-20170516.jar
+
